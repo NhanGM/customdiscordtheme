@@ -1,5 +1,5 @@
 /**
- * @name NhanGamer's theme
+ * @name nhangamertheme
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -31,7 +31,7 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgb(0,0,0,0.6);
-  --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-popout-image: url('https://www.teahub.io/photos/full/59-592268_anime-landscape-wallpaper-hd.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -42,7 +42,7 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 0px;
-  --user-modal-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-modal-image: url('https://www.teahub.io/photos/full/59-592268_anime-landscape-wallpaper-hd.jpg');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
@@ -52,7 +52,7 @@
   --user-modal-saturation: 100%;
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
-  --user-modal-blur: 0px;
+  --user-modal-blur: 3px;
   --home-icon: url('https://i.imgur.com/ie6u6JH.png');
   --home-position: center;
   --home-size: 40px;
